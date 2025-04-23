@@ -3,8 +3,8 @@ Script: authenticate.py
 Purpose: Authenticate to the ArchFX API and return an access token. This is the first step to using any APIs. This script is for local use only.
 
 Instructions:
-1. Edit `auth_url`
-2. Edit the `credentials`
+1. Edit `tenant_name`
+2. Edit the credentials - username and password
 
 System Requirements:
 - Python v3 (may work for other versions, 3.9 works for sure)
